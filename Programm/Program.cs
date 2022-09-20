@@ -23,7 +23,7 @@ string[] ResultArray(string[] array){
 void PrintArray(string[] array){
     if (array.Length != 0)
     {
-    System.Console.WriteLine($"({string.Join(", ", array)})");    
+    System.Console.WriteLine($"Массив: ({string.Join(", ", array)})");    
     }
     else
     {
