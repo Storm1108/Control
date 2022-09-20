@@ -33,8 +33,8 @@
                 <mxCell id="5" value="i &amp;lt; stringArray.Length" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="278" y="340" width="152" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="10" value="i = 0&lt;br&gt;j = 0" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="294" y="240" width="120" height="60" as="geometry"/>
+                <mxCell id="10" value="i = 0&lt;br&gt;j = 0&lt;br&gt;resultArray = &lt;br&gt;new resultArray[stringArray.Length]" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="230" width="228" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="19" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="16" target="18">
                     <mxGeometry relative="1" as="geometry"/>
